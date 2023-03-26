@@ -1,0 +1,1 @@
+Simple project with use of Istio service mesh and 2 versions of the app
